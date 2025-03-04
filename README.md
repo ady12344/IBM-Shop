@@ -1,0 +1,2 @@
+# IBM-Shop
+Practică vară
